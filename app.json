@@ -1,0 +1,19 @@
+{
+  "appKey": "sD3OzMBjIpyyTEhzZ5JJsO2CTS9qH668",
+  "appSecret": "x4UbKzoiuJf99PGAeK2q1T9jBaGK0rO9",
+  "projectId": 72,
+  "id": 176,
+  "name": "alex-test-app-7",
+  "framework": "vue",
+  "platform": "mobile",
+  "description": "",
+  "git": {
+    "url": "https://github.com/Alex9a/alex-test-app-7.git",
+    "isPrivate": 0,
+    "username": "Alex9a",
+    "password": "Aa6735629"
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
